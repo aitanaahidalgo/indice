@@ -1,0 +1,50 @@
+ *{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 248, 197);
+  }
+h1{
+    position: fixed;
+    top: 23%;
+    left: 1%;
+    font-family: 'Baumans', cursive;
+    font-size: 8em;
+}
+h2, h3, h4, h5, h6{
+    font-family: 'Tilt Warp', cursive;
+    font-size: 2em;
+    position: fixed;
+    left: 50%;
+    color: blue;
+}
+h2{
+    top: 2%;
+}
+h3{
+    top: 10%;
+}
+h4{
+    top: 18%;
+}
+h6{
+    bottom: 55%;
+    left: 1.5%;
+    color: brown;
+}
+.lista{
+    position: fixed;
+    top: 40%;
+    left: 51%;
+    font-size: 0.97em;
+    text-decoration: none;
+    color: black;
+    font-family: 'Righteous', cursive;
+    border-left: solid rgb(0, 0, 0) 1em;
+}
+.footer{
+    font-family: 'Tilt Warp', cursive;
+    font-size: 2em;
+    
+}
+
+  
